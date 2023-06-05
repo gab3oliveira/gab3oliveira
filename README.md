@@ -1,9 +1,8 @@
-
 ### Olá!<img src="https://media.tenor.com/AiFlDhPuslEAAAAi/alien-peace-sign-joypixels.gif" alt="Waving Hand" width="5%"> eu sou o Gabriel de Oliveira. 
 
 <br/>
 
- ## 🚀 Sobre mim
+## <img src="https://media.tenor.com/o9YiJrdQFBYAAAAi/spinning-spin.gif" width="40">  Sobre mim
 Eu sou uma pessoa desenvolvedora full-stack, Estou fazendo curso do Instituto Caldeira e estou amando todo aprendizado que estou tendo, pretendo trabalhar com dev para grandes empresas.
 
 ##
@@ -22,7 +21,7 @@ Eu sou uma pessoa desenvolvedora full-stack, Estou fazendo curso do Instituto Ca
 
 <br/>
 
-# Ferramentas do meu dia 
+#  Ferramentas do meu dia <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif" width="14%">
 
 <div style="display: inline_block"><br/>
 <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
