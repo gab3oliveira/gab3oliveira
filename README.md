@@ -1,3 +1,4 @@
+
 ### Olá!<img src="https://media.tenor.com/AiFlDhPuslEAAAAi/alien-peace-sign-joypixels.gif" alt="Waving Hand" width="5%"> eu sou o Gabriel de Oliveira. 
 
 <br/>
@@ -13,7 +14,10 @@ Eu sou uma pessoa desenvolvedora full-stack, Estou fazendo curso do Instituto Ca
 
 ##
 
-<br/>![Gab3oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=gab3oliveira&show_icons=true&theme=merko)
+<br/>
+
+![Gab3oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=gab3oliveira&show_icons=true&theme=merko)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setovin&layout=donut)](https://github.com/setovin/github-readme-stats)
 
 <br/>
@@ -27,10 +31,10 @@ Eu sou uma pessoa desenvolvedora full-stack, Estou fazendo curso do Instituto Ca
 <br/>
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portifolio-gru.vercel.app)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portifolio-three-kohl-19.vercel.app)
 
 <br/>
 
 ## Autores
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@gab3oliveira](https://github.com/gab3oliveira)
