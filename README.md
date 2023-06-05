@@ -3,8 +3,7 @@
 <br/>
 
 ## <img src="https://media.tenor.com/o9YiJrdQFBYAAAAi/spinning-spin.gif" width="40">  Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack, Estou fazendo curso do Instituto Caldeira e estou amando todo aprendizado que estou tendo, pretendo trabalhar com dev para grandes empresas.
-
+Meu nome é Gabriel de Oliveira Galves e sou um iniciante entusiasmado de programação. Atualmente estou participando de um treinamento do instituto Caldeira em parceria com a Alura para aprimorar minhas habilidades e construir meu portfólio. Estou apaixonado por este vasto mundo da programação e em aprender cada vez mais sobre ele.
 ##
 
  <br/>[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrieldeoliveiragalves)
